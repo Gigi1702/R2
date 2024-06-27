@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gigi1702/binder-rep/py37_r353)
+[![Binder](http://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/Gigi1702/r2/tree/main/HEAD
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
